@@ -1,1 +1,1 @@
-here are some python scrips that ive made, they are trying to do some auto piging nad sweeping networks
+here are some python scrips that I've made, they are trying to do some auto pinging and sweeping networks
